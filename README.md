@@ -1,5 +1,3 @@
-# telegram-shop
-
 # 🛍️ Danoon Магазин - Telegram Mini App
 
 ![GitHub Pages](https://img.shields.io/badge/Hosted-GitHub%20Pages-blue)
