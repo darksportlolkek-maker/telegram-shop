@@ -23,9 +23,6 @@
 ## 📸 Скриншоты
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&h=400&fit=crop" width="30%" alt="Главная страница">
-  <img src="https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&h=400&fit=crop" width="30%" alt="Каталог товаров">
-  <img src="https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&h=400&fit=crop" width="30%" alt="Корзина">
 </div>
 
 ## 🚀 Быстрый старт
