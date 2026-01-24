@@ -3,9 +3,9 @@
 
 // ЗАМЕНИТЕ ЭТИ ДАННЫЕ НА ВАШИ!
 define('DB_HOST', 'localhost');
-define('DB_NAME', 'danoon_shop');      // Имя вашей базы данных
-define('DB_USER', 'ваш_пользователь'); // Логин MySQL
-define('DB_PASS', 'ваш_пароль');       // Пароль MySQL
+define('DB_NAME', 'danoon_shop');      
+define('DB_USER', 'root'); 
+define('DB_PASS', 'Daniel2006');    
 define('DB_CHARSET', 'utf8mb4');
 
 // Настройки магазина
