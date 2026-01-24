@@ -1,7 +1,6 @@
 <?php
 // config.php - Настройки подключения к MySQL
 
-// ЗАМЕНИТЕ ЭТИ ДАННЫЕ НА ВАШИ!
 define('DB_HOST', 'localhost');
 define('DB_NAME', 'danoon_shop');      
 define('DB_USER', 'root'); 
